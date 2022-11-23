@@ -1,0 +1,8 @@
+.expence-wrpper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.expence-wrpper p{
+    margin: 0;
+}

@@ -1,0 +1,28 @@
+.expence-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0;
+    margin: 0 auto;
+    background: linear-gradient(90deg, rgb(0, 0, 0), transparent);
+}
+.expence-form label{
+    width: 150px;
+    color: ivory;
+    font-size: 20px;
+}
+.expence-form input{
+    padding: 5px 10px;
+    font-size: 18px;
+    color: ivory;
+    background-color: darkgray;
+    outline: 0;
+    border: 0;
+}
+.expence-item{
+    padding: 0 0 20px 0;
+}
+.expence-price {
+    padding: 0 0 20px;
+}
